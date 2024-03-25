@@ -3,3 +3,10 @@ semantically important and it affects screen readers sot keep
 that in mind, it also makes words bold.
 but every bold word need not be important so there is way
 to bold text via css and not affect screen readers.
+
+lists
+ul and <ol>like before</ol>
+
+good coding practice to include
+rel="noopener noreferrer"
+for safety reasons
